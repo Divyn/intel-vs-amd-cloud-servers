@@ -1,0 +1,5 @@
+CPU(s):                                  2
+Model name:                              Intel Core Processor (Skylake, IBRS, no TSX)
+Mem:            3916         344        3620           0         146        3571
+Debian GNU/Linux 13 (trixie)
+6.12.117+deb13-amd64

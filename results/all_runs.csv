@@ -1,0 +1,211 @@
+server,plan,usd_month,cpu,round,job,seconds,steal_pct,started_utc
+amd-a,vhp-2c-4gb-amd,24,AMD EPYC-Genoa Processor,1,orderbook,1.951,0.00,2026-11-24T06:16:19Z
+amd-a,vhp-2c-4gb-amd,24,AMD EPYC-Genoa Processor,1,pandas_csv,0.650,0.00,2026-11-24T06:16:21Z
+amd-a,vhp-2c-4gb-amd,24,AMD EPYC-Genoa Processor,1,json,1.753,0.00,2026-11-24T06:16:22Z
+amd-a,vhp-2c-4gb-amd,24,AMD EPYC-Genoa Processor,1,compile_sqlite,18.738,0.00,2026-11-24T06:16:24Z
+amd-a,vhp-2c-4gb-amd,24,AMD EPYC-Genoa Processor,1,zstd_2_cores,2.907,0.00,2026-11-24T06:16:43Z
+amd-a,vhp-2c-4gb-amd,24,AMD EPYC-Genoa Processor,2,pandas_csv,0.651,0.00,2026-11-24T06:16:45Z
+amd-a,vhp-2c-4gb-amd,24,AMD EPYC-Genoa Processor,2,json,1.633,0.00,2026-11-24T06:16:46Z
+amd-a,vhp-2c-4gb-amd,24,AMD EPYC-Genoa Processor,2,compile_sqlite,18.424,0.03,2026-11-24T06:16:48Z
+amd-a,vhp-2c-4gb-amd,24,AMD EPYC-Genoa Processor,2,zstd_2_cores,3.063,0.00,2026-11-24T06:17:06Z
+amd-a,vhp-2c-4gb-amd,24,AMD EPYC-Genoa Processor,2,orderbook,1.857,0.00,2026-11-24T06:17:09Z
+amd-a,vhp-2c-4gb-amd,24,AMD EPYC-Genoa Processor,3,json,1.623,0.00,2026-11-24T06:17:11Z
+amd-a,vhp-2c-4gb-amd,24,AMD EPYC-Genoa Processor,3,compile_sqlite,18.473,0.00,2026-11-24T06:17:13Z
+amd-a,vhp-2c-4gb-amd,24,AMD EPYC-Genoa Processor,3,zstd_2_cores,3.037,0.00,2026-11-24T06:17:31Z
+amd-a,vhp-2c-4gb-amd,24,AMD EPYC-Genoa Processor,3,orderbook,1.904,0.00,2026-11-24T06:17:34Z
+amd-a,vhp-2c-4gb-amd,24,AMD EPYC-Genoa Processor,3,pandas_csv,0.676,0.00,2026-11-24T06:17:36Z
+amd-b,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,1,orderbook,3.072,0.00,2026-11-24T06:17:21Z
+amd-b,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,1,pandas_csv,1.046,0.00,2026-11-24T06:17:24Z
+amd-b,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,1,json,2.434,0.00,2026-11-24T06:17:25Z
+amd-b,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,1,compile_sqlite,31.115,0.00,2026-11-24T06:17:27Z
+amd-b,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,1,zstd_2_cores,5.278,0.09,2026-11-24T06:17:58Z
+amd-b,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,2,pandas_csv,1.085,0.00,2026-11-24T06:18:04Z
+amd-b,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,2,json,2.446,0.00,2026-11-24T06:18:05Z
+amd-b,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,2,compile_sqlite,30.490,0.00,2026-11-24T06:18:07Z
+amd-b,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,2,zstd_2_cores,4.896,0.00,2026-11-24T06:18:38Z
+amd-b,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,2,orderbook,3.064,0.00,2026-11-24T06:18:43Z
+amd-b,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,3,json,2.520,0.00,2026-11-24T06:18:46Z
+amd-b,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,3,compile_sqlite,29.923,0.02,2026-11-24T06:18:48Z
+amd-b,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,3,zstd_2_cores,4.939,0.00,2026-11-24T06:19:18Z
+amd-b,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,3,orderbook,3.062,0.00,2026-11-24T06:19:23Z
+amd-b,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,3,pandas_csv,1.126,0.00,2026-11-24T06:19:26Z
+amd-c,vhp-2c-4gb-amd,24,AMD EPYC-Genoa Processor,1,orderbook,1.973,0.00,2026-11-24T06:24:41Z
+amd-c,vhp-2c-4gb-amd,24,AMD EPYC-Genoa Processor,1,pandas_csv,0.677,0.00,2026-11-24T06:24:43Z
+amd-c,vhp-2c-4gb-amd,24,AMD EPYC-Genoa Processor,1,json,1.744,0.00,2026-11-24T06:24:44Z
+amd-c,vhp-2c-4gb-amd,24,AMD EPYC-Genoa Processor,1,compile_sqlite,18.547,0.00,2026-11-24T06:24:45Z
+amd-c,vhp-2c-4gb-amd,24,AMD EPYC-Genoa Processor,1,zstd_2_cores,3.026,0.00,2026-11-24T06:25:04Z
+amd-c,vhp-2c-4gb-amd,24,AMD EPYC-Genoa Processor,2,pandas_csv,0.639,0.00,2026-11-24T06:25:07Z
+amd-c,vhp-2c-4gb-amd,24,AMD EPYC-Genoa Processor,2,json,1.582,0.00,2026-11-24T06:25:08Z
+amd-c,vhp-2c-4gb-amd,24,AMD EPYC-Genoa Processor,2,compile_sqlite,18.852,0.03,2026-11-24T06:25:09Z
+amd-c,vhp-2c-4gb-amd,24,AMD EPYC-Genoa Processor,2,zstd_2_cores,3.009,0.00,2026-11-24T06:25:28Z
+amd-c,vhp-2c-4gb-amd,24,AMD EPYC-Genoa Processor,2,orderbook,1.808,0.00,2026-11-24T06:25:31Z
+amd-c,vhp-2c-4gb-amd,24,AMD EPYC-Genoa Processor,3,json,1.578,0.00,2026-11-24T06:25:33Z
+amd-c,vhp-2c-4gb-amd,24,AMD EPYC-Genoa Processor,3,compile_sqlite,18.188,0.00,2026-11-24T06:25:34Z
+amd-c,vhp-2c-4gb-amd,24,AMD EPYC-Genoa Processor,3,zstd_2_cores,3.134,0.00,2026-11-24T06:25:53Z
+amd-c,vhp-2c-4gb-amd,24,AMD EPYC-Genoa Processor,3,orderbook,1.846,0.00,2026-11-24T06:25:56Z
+amd-c,vhp-2c-4gb-amd,24,AMD EPYC-Genoa Processor,3,pandas_csv,0.637,0.00,2026-11-24T06:25:58Z
+amd-d,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,1,orderbook,2.936,0.00,2026-11-24T06:25:42Z
+amd-d,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,1,pandas_csv,1.001,0.00,2026-11-24T06:25:45Z
+amd-d,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,1,json,2.376,0.00,2026-11-24T06:25:46Z
+amd-d,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,1,compile_sqlite,31.477,0.02,2026-11-24T06:25:49Z
+amd-d,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,1,zstd_2_cores,7.264,0.00,2026-11-24T06:26:20Z
+amd-d,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,2,pandas_csv,1.267,0.00,2026-11-24T06:26:27Z
+amd-d,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,2,json,2.640,0.00,2026-11-24T06:26:29Z
+amd-d,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,2,compile_sqlite,29.410,0.00,2026-11-24T06:26:31Z
+amd-d,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,2,zstd_2_cores,8.114,0.00,2026-11-24T06:27:01Z
+amd-d,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,2,orderbook,2.929,0.00,2026-11-24T06:27:09Z
+amd-d,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,3,json,2.428,0.00,2026-11-24T06:27:12Z
+amd-d,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,3,compile_sqlite,29.276,0.00,2026-11-24T06:27:14Z
+amd-d,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,3,zstd_2_cores,4.855,0.00,2026-11-24T06:27:44Z
+amd-d,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,3,orderbook,2.880,0.00,2026-11-24T06:27:48Z
+amd-d,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,3,pandas_csv,1.100,0.00,2026-11-24T06:27:51Z
+amd-e,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,1,orderbook,2.922,0.17,2026-11-24T06:25:36Z
+amd-e,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,1,pandas_csv,1.062,0.00,2026-11-24T06:25:39Z
+amd-e,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,1,json,2.572,0.00,2026-11-24T06:25:40Z
+amd-e,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,1,compile_sqlite,31.078,0.00,2026-11-24T06:25:43Z
+amd-e,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,1,zstd_2_cores,4.851,0.00,2026-11-24T06:26:14Z
+amd-e,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,2,pandas_csv,1.052,0.00,2026-11-24T06:26:19Z
+amd-e,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,2,json,2.411,0.00,2026-11-24T06:26:20Z
+amd-e,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,2,compile_sqlite,29.611,0.00,2026-11-24T06:26:22Z
+amd-e,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,2,zstd_2_cores,4.547,0.00,2026-11-24T06:26:52Z
+amd-e,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,2,orderbook,2.794,0.00,2026-11-24T06:26:56Z
+amd-e,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,3,json,2.431,0.00,2026-11-24T06:26:59Z
+amd-e,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,3,compile_sqlite,29.007,0.00,2026-11-24T06:27:02Z
+amd-e,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,3,zstd_2_cores,4.625,0.00,2026-11-24T06:27:31Z
+amd-e,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,3,orderbook,2.799,0.00,2026-11-24T06:27:35Z
+amd-e,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,3,pandas_csv,1.036,0.00,2026-11-24T06:27:38Z
+amd-f,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,1,orderbook,3.130,0.00,2026-11-24T06:25:51Z
+amd-f,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,1,pandas_csv,1.124,0.00,2026-11-24T06:25:54Z
+amd-f,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,1,json,2.594,0.00,2026-11-24T06:25:55Z
+amd-f,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,1,compile_sqlite,32.238,0.00,2026-11-24T06:25:58Z
+amd-f,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,1,zstd_2_cores,5.025,0.00,2026-11-24T06:26:30Z
+amd-f,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,2,pandas_csv,1.040,0.00,2026-11-24T06:26:35Z
+amd-f,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,2,json,2.273,0.00,2026-11-24T06:26:36Z
+amd-f,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,2,compile_sqlite,30.227,0.02,2026-11-24T06:26:38Z
+amd-f,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,2,zstd_2_cores,4.942,0.00,2026-11-24T06:27:09Z
+amd-f,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,2,orderbook,3.045,0.00,2026-11-24T06:27:14Z
+amd-f,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,3,json,2.394,0.00,2026-11-24T06:27:17Z
+amd-f,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,3,compile_sqlite,30.403,0.00,2026-11-24T06:27:19Z
+amd-f,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,3,zstd_2_cores,4.900,0.00,2026-11-24T06:27:49Z
+amd-f,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,3,orderbook,3.083,0.00,2026-11-24T06:27:54Z
+amd-f,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,3,pandas_csv,1.106,0.00,2026-11-24T06:27:57Z
+amd-g,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,1,orderbook,2.925,0.00,2026-11-24T06:25:56Z
+amd-g,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,1,pandas_csv,1.070,0.00,2026-11-24T06:25:59Z
+amd-g,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,1,json,2.909,0.00,2026-11-24T06:26:00Z
+amd-g,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,1,compile_sqlite,30.948,0.02,2026-11-24T06:26:03Z
+amd-g,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,1,zstd_2_cores,4.584,0.00,2026-11-24T06:26:34Z
+amd-g,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,2,pandas_csv,0.982,0.00,2026-11-24T06:26:39Z
+amd-g,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,2,json,2.279,0.00,2026-11-24T06:26:40Z
+amd-g,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,2,compile_sqlite,28.705,0.00,2026-11-24T06:26:42Z
+amd-g,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,2,zstd_2_cores,4.664,0.00,2026-11-24T06:27:11Z
+amd-g,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,2,orderbook,2.708,0.00,2026-11-24T06:27:15Z
+amd-g,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,3,json,2.243,0.00,2026-11-24T06:27:18Z
+amd-g,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,3,compile_sqlite,29.058,0.00,2026-11-24T06:27:20Z
+amd-g,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,3,zstd_2_cores,4.824,0.00,2026-11-24T06:27:49Z
+amd-g,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,3,orderbook,2.813,0.00,2026-11-24T06:27:54Z
+amd-g,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,3,pandas_csv,0.994,0.00,2026-11-24T06:27:57Z
+amd-h,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,1,orderbook,2.922,0.00,2026-11-24T06:25:56Z
+amd-h,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,1,pandas_csv,1.078,0.00,2026-11-24T06:25:59Z
+amd-h,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,1,json,2.729,0.00,2026-11-24T06:26:00Z
+amd-h,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,1,compile_sqlite,32.435,0.00,2026-11-24T06:26:03Z
+amd-h,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,1,zstd_2_cores,4.594,0.00,2026-11-24T06:26:35Z
+amd-h,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,2,pandas_csv,1.104,0.00,2026-11-24T06:26:40Z
+amd-h,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,2,json,2.288,0.00,2026-11-24T06:26:41Z
+amd-h,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,2,compile_sqlite,30.921,0.00,2026-11-24T06:26:43Z
+amd-h,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,2,zstd_2_cores,4.677,0.00,2026-11-24T06:27:14Z
+amd-h,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,2,orderbook,2.818,0.00,2026-11-24T06:27:19Z
+amd-h,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,3,json,2.302,0.00,2026-11-24T06:27:21Z
+amd-h,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,3,compile_sqlite,30.021,0.00,2026-11-24T06:27:24Z
+amd-h,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,3,zstd_2_cores,4.728,0.00,2026-11-24T06:27:54Z
+amd-h,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,3,orderbook,2.827,0.00,2026-11-24T06:27:58Z
+amd-h,vhp-2c-4gb-amd,24,AMD EPYC-Rome Processor,3,pandas_csv,1.159,0.00,2026-11-24T06:28:01Z
+hf,vhf-2c-4gb,24,"Intel Core Processor (Skylake, IBRS, no TSX)",1,orderbook,2.122,0.00,2026-11-24T06:16:38Z
+hf,vhf-2c-4gb,24,"Intel Core Processor (Skylake, IBRS, no TSX)",1,pandas_csv,0.747,0.00,2026-11-24T06:16:41Z
+hf,vhf-2c-4gb,24,"Intel Core Processor (Skylake, IBRS, no TSX)",1,json,1.900,0.00,2026-11-24T06:16:41Z
+hf,vhf-2c-4gb,24,"Intel Core Processor (Skylake, IBRS, no TSX)",1,compile_sqlite,23.326,0.00,2026-11-24T06:16:43Z
+hf,vhf-2c-4gb,24,"Intel Core Processor (Skylake, IBRS, no TSX)",1,zstd_2_cores,4.048,0.00,2026-11-24T06:17:07Z
+hf,vhf-2c-4gb,24,"Intel Core Processor (Skylake, IBRS, no TSX)",2,pandas_csv,0.737,0.00,2026-11-24T06:17:11Z
+hf,vhf-2c-4gb,24,"Intel Core Processor (Skylake, IBRS, no TSX)",2,json,1.807,0.00,2026-11-24T06:17:11Z
+hf,vhf-2c-4gb,24,"Intel Core Processor (Skylake, IBRS, no TSX)",2,compile_sqlite,22.217,0.00,2026-11-24T06:17:13Z
+hf,vhf-2c-4gb,24,"Intel Core Processor (Skylake, IBRS, no TSX)",2,zstd_2_cores,4.441,0.00,2026-11-24T06:17:35Z
+hf,vhf-2c-4gb,24,"Intel Core Processor (Skylake, IBRS, no TSX)",2,orderbook,2.080,0.00,2026-11-24T06:17:40Z
+hf,vhf-2c-4gb,24,"Intel Core Processor (Skylake, IBRS, no TSX)",3,json,1.891,0.00,2026-11-24T06:17:42Z
+hf,vhf-2c-4gb,24,"Intel Core Processor (Skylake, IBRS, no TSX)",3,compile_sqlite,22.299,0.00,2026-11-24T06:17:44Z
+hf,vhf-2c-4gb,24,"Intel Core Processor (Skylake, IBRS, no TSX)",3,zstd_2_cores,4.034,0.00,2026-11-24T06:18:06Z
+hf,vhf-2c-4gb,24,"Intel Core Processor (Skylake, IBRS, no TSX)",3,orderbook,2.009,0.00,2026-11-24T06:18:10Z
+hf,vhf-2c-4gb,24,"Intel Core Processor (Skylake, IBRS, no TSX)",3,pandas_csv,0.727,0.00,2026-11-24T06:18:12Z
+intel-a,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),1,orderbook,3.452,0.00,2026-11-24T06:16:12Z
+intel-a,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),1,pandas_csv,1.037,0.00,2026-11-24T06:16:16Z
+intel-a,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),1,json,2.719,0.00,2026-11-24T06:16:17Z
+intel-a,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),1,compile_sqlite,29.858,0.00,2026-11-24T06:16:20Z
+intel-a,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),1,zstd_2_cores,5.084,0.00,2026-11-24T06:16:49Z
+intel-a,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),2,pandas_csv,1.122,0.00,2026-11-24T06:16:55Z
+intel-a,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),2,json,2.603,0.00,2026-11-24T06:16:56Z
+intel-a,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),2,compile_sqlite,28.599,0.00,2026-11-24T06:16:58Z
+intel-a,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),2,zstd_2_cores,4.977,0.00,2026-11-24T06:17:27Z
+intel-a,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),2,orderbook,3.331,0.00,2026-11-24T06:17:32Z
+intel-a,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),3,json,2.623,0.00,2026-11-24T06:17:35Z
+intel-a,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),3,compile_sqlite,28.896,0.00,2026-11-24T06:17:38Z
+intel-a,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),3,zstd_2_cores,5.238,0.00,2026-11-24T06:18:07Z
+intel-a,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),3,orderbook,3.176,0.00,2026-11-24T06:18:12Z
+intel-a,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),3,pandas_csv,1.042,0.00,2026-11-24T06:18:15Z
+intel-b,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),1,orderbook,3.054,0.00,2026-11-24T06:16:12Z
+intel-b,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),1,pandas_csv,1.031,0.00,2026-11-24T06:16:15Z
+intel-b,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),1,json,2.721,0.00,2026-11-24T06:16:16Z
+intel-b,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),1,compile_sqlite,28.235,0.00,2026-11-24T06:16:19Z
+intel-b,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),1,zstd_2_cores,4.865,0.00,2026-11-24T06:16:47Z
+intel-b,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),2,pandas_csv,0.982,0.00,2026-11-24T06:16:52Z
+intel-b,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),2,json,2.577,0.00,2026-11-24T06:16:53Z
+intel-b,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),2,compile_sqlite,28.152,0.00,2026-11-24T06:16:55Z
+intel-b,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),2,zstd_2_cores,4.715,0.11,2026-11-24T06:17:23Z
+intel-b,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),2,orderbook,3.061,0.00,2026-11-24T06:17:28Z
+intel-b,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),3,json,2.629,0.00,2026-11-24T06:17:31Z
+intel-b,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),3,compile_sqlite,28.167,0.00,2026-11-24T06:17:34Z
+intel-b,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),3,zstd_2_cores,4.731,0.00,2026-11-24T06:18:02Z
+intel-b,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),3,orderbook,3.042,0.00,2026-11-24T06:18:07Z
+intel-b,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),3,pandas_csv,1.011,0.00,2026-11-24T06:18:10Z
+intel-c,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),1,orderbook,3.057,0.00,2026-11-24T06:25:31Z
+intel-c,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),1,pandas_csv,0.979,0.00,2026-11-24T06:25:34Z
+intel-c,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),1,json,2.540,0.00,2026-11-24T06:25:35Z
+intel-c,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),1,compile_sqlite,28.185,0.00,2026-11-24T06:25:37Z
+intel-c,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),1,zstd_2_cores,4.799,0.00,2026-11-24T06:26:06Z
+intel-c,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),2,pandas_csv,0.972,0.00,2026-11-24T06:26:10Z
+intel-c,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),2,json,2.429,0.00,2026-11-24T06:26:11Z
+intel-c,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),2,compile_sqlite,28.243,0.00,2026-11-24T06:26:14Z
+intel-c,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),2,zstd_2_cores,4.827,0.00,2026-11-24T06:26:42Z
+intel-c,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),2,orderbook,2.945,0.00,2026-11-24T06:26:47Z
+intel-c,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),3,json,2.416,0.00,2026-11-24T06:26:50Z
+intel-c,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),3,compile_sqlite,28.270,0.02,2026-11-24T06:26:52Z
+intel-c,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),3,zstd_2_cores,4.793,0.00,2026-11-24T06:27:21Z
+intel-c,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),3,orderbook,2.932,0.00,2026-11-24T06:27:25Z
+intel-c,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),3,pandas_csv,0.958,0.00,2026-11-24T06:27:28Z
+intel-d,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),1,orderbook,3.080,0.00,2026-11-24T06:25:42Z
+intel-d,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),1,pandas_csv,0.979,0.00,2026-11-24T06:25:45Z
+intel-d,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),1,json,2.616,0.00,2026-11-24T06:25:46Z
+intel-d,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),1,compile_sqlite,28.125,0.00,2026-11-24T06:25:49Z
+intel-d,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),1,zstd_2_cores,4.605,0.00,2026-11-24T06:26:17Z
+intel-d,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),2,pandas_csv,1.046,0.00,2026-11-24T06:26:21Z
+intel-d,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),2,json,2.639,0.19,2026-11-24T06:26:22Z
+intel-d,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),2,compile_sqlite,27.717,0.00,2026-11-24T06:26:25Z
+intel-d,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),2,zstd_2_cores,4.766,0.00,2026-11-24T06:26:53Z
+intel-d,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),2,orderbook,3.011,0.00,2026-11-24T06:26:58Z
+intel-d,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),3,json,2.578,0.00,2026-11-24T06:27:01Z
+intel-d,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),3,compile_sqlite,28.963,0.00,2026-11-24T06:27:03Z
+intel-d,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),3,zstd_2_cores,4.792,0.00,2026-11-24T06:27:32Z
+intel-d,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),3,orderbook,3.010,0.00,2026-11-24T06:27:37Z
+intel-d,vhp-2c-4gb-intel,24,Intel Xeon Processor (Cascadelake),3,pandas_csv,0.991,0.00,2026-11-24T06:27:40Z
+regular,vc2-2c-4gb,20,"Intel Xeon Processor (Skylake, IBRS)",1,orderbook,8.098,0.00,2026-11-24T06:17:49Z
+regular,vc2-2c-4gb,20,"Intel Xeon Processor (Skylake, IBRS)",1,pandas_csv,2.015,0.00,2026-11-24T06:17:57Z
+regular,vc2-2c-4gb,20,"Intel Xeon Processor (Skylake, IBRS)",1,json,4.613,0.00,2026-11-24T06:17:59Z
+regular,vc2-2c-4gb,20,"Intel Xeon Processor (Skylake, IBRS)",1,compile_sqlite,46.859,0.01,2026-11-24T06:18:03Z
+regular,vc2-2c-4gb,20,"Intel Xeon Processor (Skylake, IBRS)",1,zstd_2_cores,6.801,0.00,2026-11-24T06:18:50Z
+regular,vc2-2c-4gb,20,"Intel Xeon Processor (Skylake, IBRS)",2,pandas_csv,2.014,0.00,2026-11-24T06:18:57Z
+regular,vc2-2c-4gb,20,"Intel Xeon Processor (Skylake, IBRS)",2,json,4.434,0.11,2026-11-24T06:18:59Z
+regular,vc2-2c-4gb,20,"Intel Xeon Processor (Skylake, IBRS)",2,compile_sqlite,45.577,0.01,2026-11-24T06:19:04Z
+regular,vc2-2c-4gb,20,"Intel Xeon Processor (Skylake, IBRS)",2,zstd_2_cores,6.842,0.00,2026-11-24T06:19:49Z
+regular,vc2-2c-4gb,20,"Intel Xeon Processor (Skylake, IBRS)",2,orderbook,7.998,0.00,2026-11-24T06:19:56Z
+regular,vc2-2c-4gb,20,"Intel Xeon Processor (Skylake, IBRS)",3,json,4.442,0.00,2026-11-24T06:20:04Z
+regular,vc2-2c-4gb,20,"Intel Xeon Processor (Skylake, IBRS)",3,compile_sqlite,45.531,0.02,2026-11-24T06:20:08Z
+regular,vc2-2c-4gb,20,"Intel Xeon Processor (Skylake, IBRS)",3,zstd_2_cores,9.974,0.00,2026-11-24T06:20:54Z
+regular,vc2-2c-4gb,20,"Intel Xeon Processor (Skylake, IBRS)",3,orderbook,8.653,0.06,2026-11-24T06:21:04Z
+regular,vc2-2c-4gb,20,"Intel Xeon Processor (Skylake, IBRS)",3,pandas_csv,2.392,0.00,2026-11-24T06:21:13Z
